@@ -1,0 +1,27 @@
+p:hover{
+    background-color: blue;
+    text-decoration: underline;
+}
+
+a:hover{
+    background-color: yellow;
+}
+
+a:visited{
+    color: green;
+}
+a:active{
+    color: purple;
+}
+
+
+ul{
+    list-style: none;
+    
+}
+
+ul li{
+    display: inline-block;
+    margin: 10px;
+}
+
